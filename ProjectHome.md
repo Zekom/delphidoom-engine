@@ -1,0 +1,3 @@
+This project is a Win32 port of Doom, Heretic and Hexen games created by ID Software and RAVEN. The main difference of DelphiDoom is that is written in the Pascal programming language. The source code has been translated from C to Pascal. In addition many new features have been added to to expand the old engine features and take advantage of capabilities of modern computers.
+
+Official releases hosted at http://delphidoom.sitesled.com/index.html
